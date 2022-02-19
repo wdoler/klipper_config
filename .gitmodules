@@ -1,0 +1,3 @@
+[submodule "modules/Dynamic_BED_MESH_CALIBRATE"]
+	path = modules/Dynamic_BED_MESH_CALIBRATE
+	url = https://github.com/kmarty/Dynamic_BED_MESH_CALIBRATE.git
